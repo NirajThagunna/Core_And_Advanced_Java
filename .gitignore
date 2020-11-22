@@ -31,9 +31,4 @@ hs_err_pid*
 
 # Ignore file i.e. the file will not be including
 java_training
-BroadwayInfosysGUI_Projects
-DataStructures
-GUI_Projects
-GUI_Projects1
-JavaPrograms
-JavaUdemyTraining
+BroadwayInfosysJavaTraining
